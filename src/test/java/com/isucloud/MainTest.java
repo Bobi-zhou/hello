@@ -19,4 +19,9 @@ public class MainTest {
     public void testSuccess(){
         System.out.printf("ok");
     }
+
+    @Test
+    public void testSuccess2(){
+        System.out.printf("ok");
+    }
 }
