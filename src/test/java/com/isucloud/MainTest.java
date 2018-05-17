@@ -23,5 +23,6 @@ public class MainTest {
     @Test
     public void testSuccess2(){
         System.out.printf("ok42221111");
+        System.out.printf("ok5555");
     }
 }
