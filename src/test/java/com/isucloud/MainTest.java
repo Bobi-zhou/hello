@@ -22,6 +22,6 @@ public class MainTest {
 
     @Test
     public void testSuccess2(){
-        System.out.printf("ok3");
+        System.out.printf("ok4");
     }
 }
